@@ -18,10 +18,6 @@ fraud-detection/
 │   ├── raw/                      # Original dataset
 │   ├── processed/                # Cleaned and engineered features
 │   └── synthetic/                # SMOTE-balanced data
-├── notebooks/
-│   ├── 01_eda.ipynb             # Exploratory Data Analysis
-│   ├── 02_preprocessing.ipynb   # Data preprocessing
-│   └── 03_modeling.ipynb        # Model training
 ├── src/
 │   ├── data_processing.py       # Data cleaning and feature engineering
 │   ├── model.py                 # Model training and evaluation
@@ -63,10 +59,6 @@ python src/main.py
 python src/data_processing.py
 python src/model.py
 python src/explainer.py
-
-# Option 3: Use Jupyter notebooks
-jupyter notebook
-# Then open notebooks/01_eda.ipynb
 ```
 
 ### 📊 Dataset
