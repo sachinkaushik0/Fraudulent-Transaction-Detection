@@ -30,6 +30,8 @@ fraud-detection/
 ├── requirements.txt
 └── README.md
 ```
+<img width="5131" height="9548" alt="image" src="https://github.com/user-attachments/assets/5d63e3ab-dfac-466b-b9d3-344d188a5676" />
+
 ### 🚀 Quick Start
 
 #### 1. Create Directory Structure
